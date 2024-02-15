@@ -1,4 +1,4 @@
-# gracealto.github.io
+# Grace Alto
 
 ## Self Introduction
 Hi! I'm Grace Alto, a sophomore at Lehigh University studying Journalism and Theatre. 
