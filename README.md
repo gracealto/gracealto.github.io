@@ -26,6 +26,14 @@ Follow me on Instagram.
 
 [My Instagram Page](https://www.instagram.com/grace.alto/)
 
+Articles about me
+
+[Lehigh Admissions Profile](https://www1.lehigh.edu/admissions/profiles/grace-alto)
+
+[Girls State TAPIntoWarren](https://www.tapinto.net/towns/warren/sections/whrhs/articles/watchung-hills-girls-shine-at-girls-state-will-govern-at-girls-nation)
+
+[Girls State NewJerseyHills.com (subscription required)](https://www.newjerseyhills.com/echoes-sentinel/news/watchung-hills-students-shine-at-girls-state-boys-state-conferences/article_f70bfa0c-df0d-5aba-b773-d78055b0fe9c.html)
+
 ![profilepicture](https://github.com/gracealto/gracealto.github.io/blob/main/92F97466-CE4B-47B5-88CD-174B8B621E9D_1_105_c.jpeg?raw=true)
 
 
