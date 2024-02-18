@@ -1,5 +1,9 @@
 # Grace Alto
 
+<p align="center">
+<img src="https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%201.06.38%20AM.png" width="375" height="250">
+</p>
+
 ## Self Introduction
 Hi! I'm Grace Alto, a sophomore at Lehigh University studying Journalism and Theatre from Warren, NJ.
 
@@ -36,15 +40,16 @@ Articles about me
 
 ## Pictures
 
-From my photoshoot with the Lehigh Office of Admissions for my Admissions Profile.
+### From my photoshoot with the Lehigh Office of Admissions for my Admissions Profile.
 ![profilepicture](https://github.com/gracealto/gracealto.github.io/blob/main/92F97466-CE4B-47B5-88CD-174B8B621E9D_1_105_c.jpeg?raw=true)
 
-After being elected as Governor in the American Legion Auxillary Jersey Girls State Program, I was invited to my local town hall to recieve a certiciate of achievement from the Mayor.
+
+### After being elected as Governor in the American Legion Auxillary Jersey Girls State Program, I was invited to my local town hall to recieve a certiciate of achievement from the Mayor.
 ![TownHallPicture](https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%2012.48.38%20AM.png)
 
-This is my favorite piece I've ever sewn. I made it last to wear in Cape May for Memorial Day Weekend without a pattern.
-![BeachPicture](https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%2012.48.50%20AM.png)
 
+### This is my favorite piece I've ever sewn. I made it last to wear in Cape May for Memorial Day Weekend without a pattern.
+![BeachPicture](https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%2012.48.50%20AM.png)
 
 
 
