@@ -19,9 +19,11 @@ Check out my personal website ot learn more about me and check out all of my wor
   [Lehigh Office of Sustainability Work](https://gracealto.wixsite.com/gracealto/socialmedia)
 
 Connect with me on LinkedIn.
+
 [My LinkedIn Page](https://www.linkedin.com/in/gracealto/)
 
 Follow me on Instagram.
+
 [My Instagram Page](https://www.instagram.com/grace.alto/)
 
 ![profilepicture](https://github.com/gracealto/gracealto.github.io/blob/main/92F97466-CE4B-47B5-88CD-174B8B621E9D_1_105_c.jpeg?raw=true)
