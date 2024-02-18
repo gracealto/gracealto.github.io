@@ -12,11 +12,11 @@ Check out my personal website ot learn more about me and check out all of my wor
 
 [My Personal Website](https://gracealto.wixsite.com/gracealto)
 
-  [Lehigh Brown and White Articles](https://gracealto.wixsite.com/gracealto/articles)
+[Lehigh Brown and White Articles](https://gracealto.wixsite.com/gracealto/articles)
   
-  [Lehigh Office of Admissions TikToks](https://gracealto.wixsite.com/gracealto/tiktoks)
+[Lehigh Office of Admissions TikToks](https://gracealto.wixsite.com/gracealto/tiktoks)
   
-  [Lehigh Office of Sustainability Work](https://gracealto.wixsite.com/gracealto/socialmedia)
+[Lehigh Office of Sustainability Work](https://gracealto.wixsite.com/gracealto/socialmedia)
 
 Connect with me on LinkedIn.
 
