@@ -36,7 +36,7 @@ Articles about me
 
 ![profilepicture](https://github.com/gracealto/gracealto.github.io/blob/main/92F97466-CE4B-47B5-88CD-174B8B621E9D_1_105_c.jpeg?raw=true)
 
-![TownHallPicture]([Screen Shot 2024-02-18 at 12.48.38 AM.png)](https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%2012.48.38%20AM.png)
+![TownHallPicture](https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%2012.48.38%20AM.png)
 
 ![BeachPicture](https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%2012.48.50%20AM.png)
 
