@@ -1,5 +1,4 @@
 # Grace Alto
-
 <p align="center">
 <img src="https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%201.06.38%20AM.png" width="375" height="250">
 </p>
