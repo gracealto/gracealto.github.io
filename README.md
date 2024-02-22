@@ -37,11 +37,6 @@ Articles about me
 
 [Girls State NewJerseyHills.com Echoes~Senteniel (subscription required)](https://www.newjerseyhills.com/echoes-sentinel/news/watchung-hills-students-shine-at-girls-state-boys-state-conferences/article_f70bfa0c-df0d-5aba-b773-d78055b0fe9c.html)
 
-## Pictures
-
-### From my photoshoot with the Lehigh Office of Admissions for my Admissions Profile.
-![profilepicture](https://github.com/gracealto/gracealto.github.io/blob/main/92F97466-CE4B-47B5-88CD-174B8B621E9D_1_105_c.jpeg?raw=true)
-
 # Projects
 ![LehighInfo](https://github.com/gracealto/gracealto.github.io/blob/main/Undergraduate%20Enrollment.png)
 
