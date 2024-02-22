@@ -11,7 +11,7 @@ I currently work as a TikTok Intern for the Lehigh Office of Admissions, a Socia
 When I'm not working, I enjoy writing (more specifically screenwriting and fiction writing), learning French and Italian, sewing, golf, going down the shore to Cape May, NJ and watching Formula 1 grand prixs.
 
 ## Links
-Check out my personal website ot learn more about me and check out all of my work.
+### Check out my personal website ot learn more about me and check out all of my work.
 
 [My Personal Website](https://gracealto.wixsite.com/gracealto)
 
@@ -21,15 +21,15 @@ Check out my personal website ot learn more about me and check out all of my wor
   
 [Lehigh Office of Sustainability Work](https://gracealto.wixsite.com/gracealto/socialmedia)
 
-Connect with me on LinkedIn.
+### Connect with me on LinkedIn.
 
 [My LinkedIn Page](https://www.linkedin.com/in/gracealto/)
 
-Follow me on Instagram.
+### Follow me on Instagram.
 
 [My Instagram Page](https://www.instagram.com/grace.alto/)
 
-Articles about me
+### Articles about me
 
 [Lehigh Admissions Profile](https://www1.lehigh.edu/admissions/profiles/grace-alto)
 
