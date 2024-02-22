@@ -40,5 +40,6 @@ Articles about me
 # Data Charts
 ### Data from the [Lehigh University Office of Institutional Data University Profile](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
 The data below is the comparison of the amount of male versus female students enrolled in each Lehigh College in Fall of 2023. 
-</p>
+
+
 ![LehighInfo](https://github.com/gracealto/gracealto.github.io/blob/main/Undergraduate%20Enrollment%20(2).jpg)
