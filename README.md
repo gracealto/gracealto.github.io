@@ -1,6 +1,6 @@
 # Grace Alto
 <p align="center">
-<img src="https://github.com/gracealto/gracealto.github.io/blob/main/Screen%20Shot%202024-02-18%20at%201.06.38%20AM.png" width="375" height="250">
+<img src="https://github.com/gracealto/gracealto.github.io/blob/main/92F97466-CE4B-47B5-88CD-174B8B621E9D_1_105_c.jpeg?raw=true" width="375" height="250">
 </p>
 
 ## Self Introduction
