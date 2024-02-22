@@ -8,7 +8,7 @@ Hi! I'm Grace Alto, a sophomore at Lehigh University studying Journalism and The
 
 I currently work as a TikTok Intern for the Lehigh Office of Admissions, a Social Media, Marketing and Communications Assistant at the Lehigh Office of Sustainability, and as a Sales Associate at the Sterling Hallmark. In the Summer of 2024, I will be working as a Social Media Intern for the IEEE Standards Association in Piscataway, NJ. 
 
-When I'm not working, I enjoy writing (more specifically screenwriting and fiction writing), learning Italian, sewing, golf, going down the shore to Cape May, NJ and watching Formula 1 grand prixs. I also danced for 16 years at my home studio, and worked as a teacher's assistant for 5 years before graduating, and still enjoy dancing recreationally. 
+When I'm not working, I enjoy writing (more specifically screenwriting and fiction writing), learning French and Italian, sewing, golf, going down the shore to Cape May, NJ and watching Formula 1 grand prixs.
 
 ## Links
 Check out my personal website ot learn more about me and check out all of my work.
