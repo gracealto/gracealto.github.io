@@ -43,6 +43,5 @@ The data below is the comparison of the amount of male versus female students en
 
 <p align="center">
 <img src="https://github.com/gracealto/gracealto.github.io/blob/main/Undergraduate%20Enrollment%20(2).jpg" width="550" height="750"> 
-</p>
 
 
