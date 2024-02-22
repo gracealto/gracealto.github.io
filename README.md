@@ -38,6 +38,6 @@ Articles about me
 [Girls State NewJerseyHills.com Echoes~Senteniel (subscription required)](https://www.newjerseyhills.com/echoes-sentinel/news/watchung-hills-students-shine-at-girls-state-boys-state-conferences/article_f70bfa0c-df0d-5aba-b773-d78055b0fe9c.html)
 
 # Data Charts
-## With data from the [Lehigh University Office of Institutional Data University Profile](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
+### Data from the [Lehigh University Office of Institutional Data University Profile](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
 The data below is the comparison of the amount of male versus female students enrolled in each Lehigh College in Fall of 2023. 
 ![LehighInfo](https://github.com/gracealto/gracealto.github.io/blob/main/Undergraduate%20Enrollment%20(2).jpg)
