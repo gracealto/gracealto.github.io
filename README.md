@@ -45,6 +45,8 @@ The data below is the comparison of the amount of male versus female students en
 <p align="center">
 <img src="https://github.com/gracealto/gracealto.github.io/blob/7606a7b4680b2fa5dbaa53e1a121b1be8df45951/Undergraduate%20Enrollment%20(2).jpg?raw=true" width="550" height="750"> 
 
+
+
 ## Formula 1 Grand Prix Ticket Price Increase from 2023 to 2024
 ### Data from [F1Destinations.com](https://f1destinations.com) 
 
