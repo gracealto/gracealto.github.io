@@ -29,7 +29,7 @@ When I'm not working, I enjoy writing (more specifically screenwriting and ficti
 
 [My Instagram Page](https://www.instagram.com/grace.alto/)
 
-### Articles about me
+### Articles about me.
 
 [Lehigh Admissions Profile](https://www1.lehigh.edu/admissions/profiles/grace-alto)
 
