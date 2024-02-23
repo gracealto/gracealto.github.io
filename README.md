@@ -38,14 +38,13 @@ When I'm not working, I enjoy writing (more specifically screenwriting and ficti
 [Girls State NewJerseyHills.com Echoes~Senteniel (subscription required)](https://www.newjerseyhills.com/echoes-sentinel/news/watchung-hills-students-shine-at-girls-state-boys-state-conferences/article_f70bfa0c-df0d-5aba-b773-d78055b0fe9c.html)
 
 # Data Charts
-## Lehigh College Gender Distribution
+## Lehigh University Undergraduate College Gender Distribution
 ### Data from the [Lehigh University Office of Institutional Data University Profile](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
 The data below is the comparison of the amount of male versus female students enrolled in each Lehigh College in Fall of 2023. 
 
 <p align="center">
 <img src="https://github.com/gracealto/gracealto.github.io/blob/7606a7b4680b2fa5dbaa53e1a121b1be8df45951/Undergraduate%20Enrollment%20(2).jpg?raw=true" width="550" height="750"> 
 </p>
-
 
 ## Formula 1 Grand Prix Ticket Price Increase from 2023 to 2024
 ### Data from [F1Destinations.com](https://f1destinations.com) 
