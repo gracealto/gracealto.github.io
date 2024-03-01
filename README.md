@@ -73,4 +73,10 @@ At the time of writing and publishing their article, [F1Destinations](https://f1
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w5m1IPr_DVSMB33FeiYS-k-dBHgW1ifhooMfOd-RwOE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
+## Timeline of Formula 1 Driver Daniel Ricciardo's Career in Professional Motorsports
+### This timeline quickly goes over his achievements before Formula 1, but has the thing points of his F1 career highlighted, including his team changes, wins, and podiums as he enters his 14th season in the 2024 season.
+Although I am not a Red Bull fan, I am a Daniel Ricciardo fan, and wanted to chronicle his time in F1.  
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RnhVnslSMN9_zKmTf6GPlUAjSmgCalITNFO6ufUODtE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 
