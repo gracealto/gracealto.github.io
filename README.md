@@ -75,6 +75,7 @@ At the time of writing and publishing their article, [F1Destinations](https://f1
 
 ## F1 Driver Timelines
 
+I've found enjoyment in researching and creating these timelines about F1 Drivers, so I've made more than 1.
 
 ### Daniel Ricciardo's Career in Professional Motorsports
 This timeline quickly goes over his achievements before Formula 1, but has the thing points of his F1 career highlighted, including his team changes, wins, and podiums as he enters his 14th season in 2024.
