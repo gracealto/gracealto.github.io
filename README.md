@@ -73,10 +73,18 @@ At the time of writing and publishing their article, [F1Destinations](https://f1
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w5m1IPr_DVSMB33FeiYS-k-dBHgW1ifhooMfOd-RwOE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
-## Timeline of Formula 1 Driver Daniel Ricciardo's Career in Professional Motorsports
-### This timeline quickly goes over his achievements before Formula 1, but has the thing points of his F1 career highlighted, including his team changes, wins, and podiums as he enters his 14th season in the 2024 season.
-Although I am not a Red Bull fan, I am a Daniel Ricciardo fan, and wanted to chronicle his time in F1.  
+## F1 Driver Timelines
+
+
+### Daniel Ricciardo's Career in Professional Motorsports
+This timeline quickly goes over his achievements before Formula 1, but has the thing points of his F1 career highlighted, including his team changes, wins, and podiums as he enters his 14th season in 2024.
+Although I am not a Red Bull fan, I am a Daniel Ricciardo fan as he is a big reason as to why I love Formula 1, and wanted to chronicle his time in F1.  
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RnhVnslSMN9_zKmTf6GPlUAjSmgCalITNFO6ufUODtE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+### Lando Norris' Career in Professional Motorsports
+This timeline goes over Norris' Racing career (not karting career). It quickly goes over his time outside of F1, and then highlights important moments in his F1 Career with McLaren as he enters his 6th F1 season in 2024. (Images coming soon)
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IGL1E5KafGbA3OcGyIYiGs0OOoIyq_Zy7Cj5vl4wdMo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 
