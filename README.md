@@ -77,7 +77,7 @@ At the time of writing and publishing their article, [F1Destinations](https://f1
 
 ## F1 Timelines
 
-I've found enjoyment in researching and creating these timelines about F1 Drivers, so I've made more than 1.
+I've found enjoyment in researching and creating these timelines so I've made more than one. 
 
 ### 2024 F1 Calendar
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Pt7N2gQOfGK80wIAvz8BPuHHtyb4l-MWtqReH4cKzUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
