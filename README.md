@@ -84,7 +84,7 @@ Although I am not a Red Bull fan, I am a Daniel Ricciardo fan as he is a big rea
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RnhVnslSMN9_zKmTf6GPlUAjSmgCalITNFO6ufUODtE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Lando Norris' Career in Professional Motorsports
-This timeline goes over Norris' Racing career (not karting career). It quickly goes over his time outside of F1, and then highlights important moments in his F1 Career with McLaren as he enters his 6th F1 season in 2024. (Images coming soon)
+This timeline goes over Norris' Racing career (not karting career). It quickly goes over his time outside of F1, and then highlights important moments in his F1 Career with McLaren as he enters his 6th F1 season in 2024.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IGL1E5KafGbA3OcGyIYiGs0OOoIyq_Zy7Cj5vl4wdMo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
