@@ -94,8 +94,16 @@ This timeline goes over Norris' Racing career (not karting career). It quickly g
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IGL1E5KafGbA3OcGyIYiGs0OOoIyq_Zy7Cj5vl4wdMo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 
-## Charts
+# Charts
+
+## Lehigh University Undergraduate Enrollment Percentage 2023
 The data below is from the Fall 2023 Lehigh University Profile entailing the Undergraduate Enrollment percentage in each college. 
 <p align="center">
-<img src="https://github.com/gracealto/gracealto.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Percentage_2023_0.00%25_chartbuilder.png?raw=true" width="750" height="550">
+<img src="https://github.com/gracealto/gracealto.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Percentage_2023_0.00%25_chartbuilder.png?raw=true" width="650" height="350">
+</p>
+
+## Formula 1 Constructor Champion Winner Percentage from 1950-2023
+The data below is from F1.com about the World Constructor Champions from the creation of Formula 1 in 1950 to the most recent finished season in 2023. 
+<p align="center">
+<img src="https://github.com/gracealto/gracealto.github.io/blob/main/F1_World_Constructor_Championship_Winner_Percentage_1950-2023__chartbuilder.png?raw=true" width="550" height="550">
 </p>
