@@ -102,7 +102,7 @@ The data below is from the Fall 2023 Lehigh University Profile entailing the Und
 <img src="https://github.com/gracealto/gracealto.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Percentage_2023_0.00%25_chartbuilder.png?raw=true" width="650" height="350">
 </p>
 
-## Formula 1 Constructor Champion Winner Percentage from 1950-2023
+## Formula 1 World Constructor Championship Winner Percentage from 1950-2023
 The data below is from F1.com about the World Constructor Champions from the creation of Formula 1 in 1950 to the most recent finished season in 2023. 
 <p align="center">
 <img src="https://github.com/gracealto/gracealto.github.io/blob/main/F1_World_Constructor_Championship_Winner_Percentage_1950-2023__chartbuilder.png?raw=true" width="550" height="550">
