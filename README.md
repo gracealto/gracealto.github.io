@@ -112,4 +112,4 @@ The data below is from F1.com about the World Constructor Champions from the cre
 # Maps
 
 ## 2019 World's Top 20 Cycling Cities
-<iframe src="https://www.google.com/maps/d/embed?mid=1JWCaIz4sxiJ37GWRuB5ahK8rvB4JJEc&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1JWCaIz4sxiJ37GWRuB5ahK8rvB4JJEc&ehbc=2E312F" width="1200" height="700"></iframe>
