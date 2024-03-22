@@ -112,4 +112,7 @@ The data below is from F1.com about the World Constructor Champions from the cre
 # Maps
 
 ## 2019 World's Top 20 Cycling Cities
-<iframe src="https://www.google.com/maps/d/embed?mid=1JWCaIz4sxiJ37GWRuB5ahK8rvB4JJEc&ehbc=2E312F" width="1000" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1JWCaIz4sxiJ37GWRuB5ahK8rvB4JJEc&ehbc=2E312F" width="900" height="500"></iframe>
+
+## Current 2024 F1 Grand Prix Circuits and Former Formula 1 Circuits
+<iframe src="https://www.google.com/maps/d/embed?mid=1j1CFh40m_yjxLTk_w_y7xabdAra1Mo4&ehbc=2E312F" width="900" height="500"></iframe>
