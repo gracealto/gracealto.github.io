@@ -15,11 +15,7 @@ When I'm not working, I enjoy writing (more specifically screenwriting and ficti
 
 [My Personal Website](https://gracealto.wixsite.com/gracealto)
 
-[Lehigh Brown and White Articles](https://gracealto.wixsite.com/gracealto/articles)
-  
-[Lehigh Office of Admissions TikToks](https://gracealto.wixsite.com/gracealto/tiktoks)
-  
-[Lehigh Office of Sustainability Work](https://gracealto.wixsite.com/gracealto/socialmedia)
+[Professional Portfolio](https://gracealto.wixsite.com/gracealto/professionalportfolio)
 
 ### Connect with me on LinkedIn.
 
