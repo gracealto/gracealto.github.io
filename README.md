@@ -33,14 +33,7 @@ When I'm not working, I enjoy writing (more specifically screenwriting and ficti
 
 [Girls State NewJerseyHills.com Echoes~Senteniel (subscription required)](https://www.newjerseyhills.com/echoes-sentinel/news/watchung-hills-students-shine-at-girls-state-boys-state-conferences/article_f70bfa0c-df0d-5aba-b773-d78055b0fe9c.html)
 
-# Data Charts
-## Lehigh University Undergraduate College Gender Distribution
-### Data from the [Lehigh University Office of Institutional Data University Profile](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
-The data below is the comparison of the amount of male versus female students enrolled in each Lehigh College in Fall of 2023. 
-
-<p align="center">
-<img src="https://github.com/gracealto/gracealto.github.io/blob/7606a7b4680b2fa5dbaa53e1a121b1be8df45951/Undergraduate%20Enrollment%20(2).jpg?raw=true" width="550" height="750"> 
-</p>
+# Formula 1 Data Journalism Projects
 
 ## Formula 1 Grand Prix Ticket Price Increase from 2023 to 2024
 ### Data from [F1Destinations.com](https://f1destinations.com) 
@@ -65,12 +58,6 @@ At the time of writing and publishing their article, [F1Destinations](https://f1
 <img src="https://github.com/gracealto/gracealto.github.io/blob/2b22497bb1177f5ebdb951853de5ddc943931032/F1%20GP%20Ticket%20Price%20Change%20from%202023-2024%20(1).jpg?raw=true" width="550" height="750">
 </p>
 
-# Timelines
-
-## Lehigh-Lafayette "The Rivalry" Timeline
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w5m1IPr_DVSMB33FeiYS-k-dBHgW1ifhooMfOd-RwOE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
-
 ## F1 Timelines
 
 I've found enjoyment in researching and creating these timelines so I've made more than one. 
@@ -90,14 +77,6 @@ This timeline goes over Norris' Racing career (not karting career). It quickly g
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IGL1E5KafGbA3OcGyIYiGs0OOoIyq_Zy7Cj5vl4wdMo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 
-# Charts
-
-## Lehigh University Undergraduate Enrollment Percentage 2023
-The data below is from the Fall 2023 Lehigh University Profile entailing the Undergraduate Enrollment percentage in each college. 
-<p align="center">
-<img src="https://github.com/gracealto/gracealto.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Percentage_2023_0.00%25_chartbuilder.png?raw=true" width="650" height="350">
-</p>
-
 ## Formula 1 World Constructor Championship Winner Percentage from 1950-2023
 The data below is from F1.com about the World Constructor Champions from the creation of Formula 1 in 1950 to the most recent finished season in 2023. 
 <p align="center">
@@ -105,15 +84,41 @@ The data below is from F1.com about the World Constructor Champions from the cre
 </p>
 
 
-# Maps
-
-## 2019 World's Top 20 Cycling Cities
-<iframe src="https://www.google.com/maps/d/embed?mid=1JWCaIz4sxiJ37GWRuB5ahK8rvB4JJEc&ehbc=2E312F" width="1000" height="500"></iframe>
-
 ## Current 2024 F1 Grand Prix Circuits and Former Formula 1 Circuits
 <iframe src="https://www.google.com/maps/d/embed?mid=1j1CFh40m_yjxLTk_w_y7xabdAra1Mo4&ehbc=2E312F" width="1000" height="500"></iframe>
 
-# Tableau
+## 2023 Formula 1 Season Stats
+This graphic has three different sections that show some statistics from the 2023 Formula 1 Season. 
+### Driver Statistics
+Each driver is on a different page, sorted from 1st in the World Driver's Champion to 22nd in the World Driver's Championship. 
+shows different statistics for different drivers and teams from the 2023 Formula 1 season. The first graphic on the page is how many points the driver had after each race weekend, how many points each driver gained per race, and how they placed in each race. If a driver did not particpate in a race weekend, they do not have a plot on the graphic, and if the driver did not finish, or were disqualified from the race, that is indicated by place 0 on the graphic. This graphic can be used to se which drivers were most consistant in race finishes, which drivers scored the most points, and which drivers had the best season. By looking at the graphic, you can see that Max Verstappen and Lewis Hamilton are the only drivers who finished every single race in the 2023 season in the points.
+### Team Statistics
+Each of the 10 Formula 1 teams have their own page. The first graphic shows how many points the team has in total after each race weekend. The second graphic shows how many points each team gained during each race weekend. These graphics can show which teams gained the most points for the World Constructors Championship in the 2023 season, and which teams had the most consistant drivers. By looking at these graphics, you can see that Red Bull and Mercedes are the only two teams to have gained points during every race. 
+### Grand Prix Information
+The third graphic has two maps. The top map has all of the grand prixs that do not take place in the USA. The second map has the three races that do take place in the USA, Miami, Austin, and Las Vegas. The grand prixs are all different colors to differentiate them, and the size of the data point indicated how many of those grand prixs have taken place there. There is also a brief description with some information about the grand prix and circuit on the map. 
+
+<div class='tableauPlaceholder' id='viz1712362156878' style='position: relative'><noscript><a href='#'><img alt='2023 Formula 1 Season Stats ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;8C&#47;8CXFWHQSQ&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;8CXFWHQSQ' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;8C&#47;8CXFWHQSQ&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1712362156878'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
+# Other Data Journalism Projects
+## Lehigh University Undergraduate College Gender Distribution
+### Data from the [Lehigh University Office of Institutional Data University Profile](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2023.pdf).
+The data below is the comparison of the amount of male versus female students enrolled in each Lehigh College in Fall of 2023. 
+<p align="center">
+<img src="https://github.com/gracealto/gracealto.github.io/blob/7606a7b4680b2fa5dbaa53e1a121b1be8df45951/Undergraduate%20Enrollment%20(2).jpg?raw=true" width="550" height="750"> 
+</p>
+
+## Lehigh-Lafayette "The Rivalry" Timeline
+
+## Lehigh University Undergraduate Enrollment Percentage 2023
+The data below is from the Fall 2023 Lehigh University Profile entailing the Undergraduate Enrollment percentage in each college. 
+<p align="center">
+<img src="https://github.com/gracealto/gracealto.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Percentage_2023_0.00%25_chartbuilder.png?raw=true" width="650" height="350">
+</p>
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w5m1IPr_DVSMB33FeiYS-k-dBHgW1ifhooMfOd-RwOE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+## 2019 World's Top 20 Cycling Cities
+<iframe src="https://www.google.com/maps/d/embed?mid=1JWCaIz4sxiJ37GWRuB5ahK8rvB4JJEc&ehbc=2E312F" width="1000" height="500"></iframe>
 
 ## Lehigh Student Party Location Data
 
@@ -131,14 +136,4 @@ This graphic shows differetn Lehigh Community Status' and what party location th
 This graphic shows different admissions and degree statistics from Universities in the USA.
 <div class='tableauPlaceholder' id='viz1712240584481' style='position: relative'><noscript><a href='#'><img alt='Higher Education Data 2013Grace Alto ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HigherEducationData2013_17122405726280&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HigherEducationData2013_17122405726280&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HigherEducationData2013_17122405726280&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1712240584481'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
-## 2023 Formula 1 Season Stats
-This graphic has three different sections that show some statistics from the 2023 Formula 1 Season. 
-### Driver Statistics
-Each driver is on a different page, sorted from 1st in the World Driver's Champion to 22nd in the World Driver's Championship. 
-shows different statistics for different drivers and teams from the 2023 Formula 1 season. The first graphic on the page is how many points the driver had after each race weekend, how many points each driver gained per race, and how they placed in each race. If a driver did not particpate in a race weekend, they do not have a plot on the graphic, and if the driver did not finish, or were disqualified from the race, that is indicated by place 0 on the graphic. This graphic can be used to se which drivers were most consistant in race finishes, which drivers scored the most points, and which drivers had the best season. By looking at the graphic, you can see that Max Verstappen and Lewis Hamilton are the only drivers who finished every single race in the 2023 season in the points.
-### Team Statistics
-Each of the 10 Formula 1 teams have their own page. The first graphic shows how many points the team has in total after each race weekend. The second graphic shows how many points each team gained during each race weekend. These graphics can show which teams gained the most points for the World Constructors Championship in the 2023 season, and which teams had the most consistant drivers. By looking at these graphics, you can see that Red Bull and Mercedes are the only two teams to have gained points during every race. 
-### Grand Prix Information
-The third graphic has two maps. The top map has all of the grand prixs that do not take place in the USA. The second map has the three races that do take place in the USA, Miami, Austin, and Las Vegas. The grand prixs are all different colors to differentiate them, and the size of the data point indicated how many of those grand prixs have taken place there. There is also a brief description with some information about the grand prix and circuit on the map. 
 
-<div class='tableauPlaceholder' id='viz1712362156878' style='position: relative'><noscript><a href='#'><img alt='2023 Formula 1 Season Stats ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;8C&#47;8CXFWHQSQ&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;8CXFWHQSQ' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;8C&#47;8CXFWHQSQ&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1712362156878'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
