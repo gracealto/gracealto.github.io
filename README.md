@@ -66,13 +66,12 @@ I've found enjoyment in researching and creating these timelines so I've made mo
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Pt7N2gQOfGK80wIAvz8BPuHHtyb4l-MWtqReH4cKzUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Daniel Ricciardo's Career in Professional Motorsports
-This timeline quickly goes over his achievements before Formula 1, but has the thing points of his F1 career highlighted, including his team changes, wins, and podiums as he enters his 14th season in 2024.
-Although I am not a Red Bull fan, I am a Daniel Ricciardo fan as he is a big reason as to why I love Formula 1, and wanted to chronicle his time in F1.  
+This timeline highlights the achievements of Formula 1 Driver Daniel Ricciardo. The timeline starts with his Junior career and ends in the present. it highlights the first time he scored points, got on the podium, pole position, wins, and team changes as he has now entered his 14th season in Formula 1. Although I am not a Red Bull fan, I am a Daniel Ricciardo fan as he is a big reason as to why I love Formula 1, and wanted to chronicle his time in F1. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RnhVnslSMN9_zKmTf6GPlUAjSmgCalITNFO6ufUODtE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Lando Norris' Career in Professional Motorsports
-This timeline goes over Norris' Racing career (not karting career). It quickly goes over his time outside of F1, and then highlights important moments in his F1 Career with McLaren as he enters his 6th F1 season in 2024.
+This timeline goes over McLaren F1 driver Lando Norris' racing career, starting in his junior career, and ending in the present.  This timeline details his teams, wins, points, podiums and pole positions as he has entered his 6th F1 season in 2024.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IGL1E5KafGbA3OcGyIYiGs0OOoIyq_Zy7Cj5vl4wdMo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
@@ -85,6 +84,8 @@ The data below is from F1.com about the World Constructor Champions from the cre
 
 
 ## Current 2024 F1 Grand Prix Circuits and Former Formula 1 Circuits
+This is a map with details about all current 2024 Formula 1 Grand Prix circuits in red. In blue, there are points of all former F1 circuits to show how many different circuits F1 has taken place at since its conception in 1950.
+Data from F1.com.
 <iframe src="https://www.google.com/maps/d/embed?mid=1j1CFh40m_yjxLTk_w_y7xabdAra1Mo4&ehbc=2E312F" width="1000" height="500"></iframe>
 
 ## 2023 Formula 1 Season Stats
